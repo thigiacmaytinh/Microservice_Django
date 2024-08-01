@@ -1,0 +1,29 @@
+{
+    "version" : "0.0.1",
+    "secrect_key" : "81(y1=43wl9a@+w!b0nym-&crpi7*=#np1o9*i)jojonnv2*mq",
+    "mongodb" : {
+        "release" : {
+            "host": "127.0.0.1",
+            "user" : "vohungvi",
+            "password": "",
+            "db_name" : ""
+        },
+        "debug" : {
+            "host": "127.0.0.1",
+            "user" : "vohungvi",
+            "password": "",
+            "db_name" : ""            
+        }
+    },
+    "session_time" : 10,
+    "email" : {
+        "host": "smtp.gmail.com",
+        "port": "587",
+        "user": "",
+        "password" : "",
+        "from_email" : "support@viscomsolution.com"
+    },
+    "face_min_size" : 20,
+    "site_header_text" : "AI solution",
+    "os_password" : "viscom"
+}
